@@ -1,4 +1,4 @@
-##Git commands cheat sheet 
+## Git commands cheat sheet 
 ---
 __Hello, this file shows you some of the most popular git commands which you can use.__
 
