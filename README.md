@@ -1,9 +1,9 @@
-##Git commands cheat sheet 
+## Git commands cheat sheet 
 ---
 __Hello, this file shows you some of the most popular git commands which you can use.__
 
 ---
-####For example:
+#### For example:
 
 ```
 1.git init ---> инициализировать папку с проэктом в git 
